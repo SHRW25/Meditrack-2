@@ -1,0 +1,1 @@
+{"name":"MediTrack","short_name":"MediTrack","description":"Password-protected medication organizer","start_url":"./","display":"standalone","background_color":"#f5f8f8","theme_color":"#123c4a","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
